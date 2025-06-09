@@ -1,0 +1,5 @@
+streamlit
+snscrape
+sentence-transformers
+numpy
+pandas
